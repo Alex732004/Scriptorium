@@ -1,6 +1,7 @@
-TESTING, this should be pushed to both repos
-Testing-2 by Paridhi to check if pushed to both repos
-testing whether commit for a branch will go to both repos
-test 4: push to both repos
+This full-stack project, Scriptorium, is a dynamic platform for developers to write, execute, and share code across multiple programming languages, including JavaScript, Python, Java, C++, Rust, and PHP. Built using React for the frontend, Node.js/Express for the backend, and a PostgreSQL database, the application features an online code editor, user authentication, and the ability to save and manage code templates. It also includes a blog platform for knowledge sharing, where users can write, upvote, and comment on posts. Admins have tools to manage reported content, ensuring a safe and productive community environment. The project showcases CRUD operations, responsive design, and integration with APIs, demonstrating proficiency in modern web development. Ideal for collaborative and educational purposes, Scriptorium highlights a well-rounded understanding of full-stack technologies.
 
-TEST FOR PP2 PUSH TO BOTH REPO
+
+
+
+
+
