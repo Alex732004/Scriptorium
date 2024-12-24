@@ -6,9 +6,13 @@ This full-stack project, Scriptorium, is a dynamic platform for developers to wr
 
 ## Code Templates
 ![image](https://github.com/user-attachments/assets/7320526b-a94c-4aae-bac2-85878bccd7fd)
+![image](https://github.com/user-attachments/assets/07d4cf56-7fb9-43eb-ae80-a8565162eb43)
 
 ## Example of code execution 
 ![image](https://github.com/user-attachments/assets/876b5013-f45c-4771-adb9-2211911e7151)
+
+## Blog Post Creation 
+![image](https://github.com/user-attachments/assets/da8f6c87-b603-45e4-8847-4f5496637983)
 
 ## Signed in User Dashboard 
 ![image](https://github.com/user-attachments/assets/b26aa180-41ab-4a86-aa3c-1756cc034d42)
