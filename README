@@ -1,4 +1,4 @@
-IN PROCESS 
+https://cdn.discordapp.com/attachments/1294836638316499004/1311445955408564335/image.png?ex=676b29b9&is=6769d839&hm=5389ea3a74daead3b6e0ca9bfaf88b5bad01ddb5b4dbfe799cd3690b5713d479&
 
 This full-stack project, Scriptorium, is a dynamic platform for developers to write, execute, and share code across multiple programming languages, including JavaScript, Python, Java, C++, Rust, and PHP. Built using React for the frontend, Node.js/Express for the backend, and a PostgreSQL database, the application features an online code editor, user authentication, and the ability to save and manage code templates. It also includes a blog platform for knowledge sharing, where users can write, upvote, and comment on posts. Admins have tools to manage reported content, ensuring a safe and productive community environment. The project showcases CRUD operations, responsive design, and integration with APIs, demonstrating proficiency in modern web development. Ideal for collaborative and educational purposes, Scriptorium highlights a well-rounded understanding of full-stack technologies.
 
