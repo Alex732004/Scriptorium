@@ -1,6 +1,6 @@
-<blockquote>
+
 Scriptorium is a full-stack project. It is a dynamic platform for developers to write, execute, and share code across multiple programming languages. Some languages include JavaScript, Python, Java, C, C++, Rust, PHP, RUBY, Go, and Perl. Built using React for the frontend, Node.js for the backend, and Prisma for the database schema. The application features an online code editor, user authentication, and the ability to save and manage code templates. Users can execute code using Docker from an existing template or new code they write on the web application. It also includes a blog platform for knowledge sharing; users can write, upvote, downvote, and comment on blog posts. Admins have tools to manage reported content to ensure a safe and productive community environment. The project showcases CRUD operations, responsive design, and integration with APIs to demonstrate proficiency in modern web development.
-</blockquote>
+
 
 ## Home Page
 ![image](https://github.com/user-attachments/assets/837bd41b-2b62-43f9-9b9d-f0aca6e771ba)
